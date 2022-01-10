@@ -4,7 +4,6 @@ namespace CaeserCypher
 {
     class Program
     {
-        //public string[] alphabet = "abcdefghijklmnopqrstuvwxyz".toCharArray();
         static void Main()
         {
             Console.WriteLine("Input text to cypher");
